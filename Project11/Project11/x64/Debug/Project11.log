@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Edmon\source\repos\Project11\Project11\Source.cpp(10,20): warning C4552: "<=": результат выражения не используется
+  Project11.vcxproj -> C:\Users\Edmon\source\repos\Project11\x64\Debug\Project11.exe

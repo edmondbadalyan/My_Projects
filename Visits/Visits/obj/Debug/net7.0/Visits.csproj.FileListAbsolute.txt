@@ -1,0 +1,14 @@
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\Visits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\Visits.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\Visits.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\Visits.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Visits\Visits\bin\Debug\net7.0\Visits.exe
+C:\Users\Edmon\source\repos\Visits\Visits\bin\Debug\net7.0\Visits.deps.json
+C:\Users\Edmon\source\repos\Visits\Visits\bin\Debug\net7.0\Visits.runtimeconfig.json
+C:\Users\Edmon\source\repos\Visits\Visits\bin\Debug\net7.0\Visits.dll
+C:\Users\Edmon\source\repos\Visits\Visits\bin\Debug\net7.0\Visits.pdb
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\Visits.dll
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\refint\Visits.dll
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\Visits.pdb
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\Visits.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Visits\Visits\obj\Debug\net7.0\ref\Visits.dll

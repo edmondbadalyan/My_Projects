@@ -1,0 +1,16 @@
+﻿  Шаблон.cpp
+C:\Users\Edmon\source\repos\Project16\Project16\Шаблон.cpp(41,54): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Edmon\source\repos\Project16\Project16\Шаблон.cpp(19,11): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Edmon\source\repos\Project16\Project16\Шаблон.cpp(32,63): message : выполняется компиляция ссылки на экземпляр шаблон функции "int partition<T4,T4>(T1 [],const int,const int,const T2)"
+          with
+          [
+              T4=float,
+              T1=float,
+              T2=float
+          ]
+C:\Users\Edmon\source\repos\Project16\Project16\Шаблон.cpp(44,30): message : выполняется компиляция ссылки на экземпляр шаблон функции "void quick_sort<float>(T4 [],const unsigned int,const unsigned int)"
+          with
+          [
+              T4=float
+          ]
+  Project16.vcxproj -> C:\Users\Edmon\source\repos\Project16\x64\Debug\Project16.exe

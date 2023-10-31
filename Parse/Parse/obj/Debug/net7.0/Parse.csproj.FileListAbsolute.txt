@@ -1,0 +1,14 @@
+C:\Users\Edmon\source\repos\Parse\Parse\bin\Debug\net7.0\Parse.exe
+C:\Users\Edmon\source\repos\Parse\Parse\bin\Debug\net7.0\Parse.deps.json
+C:\Users\Edmon\source\repos\Parse\Parse\bin\Debug\net7.0\Parse.runtimeconfig.json
+C:\Users\Edmon\source\repos\Parse\Parse\bin\Debug\net7.0\Parse.dll
+C:\Users\Edmon\source\repos\Parse\Parse\bin\Debug\net7.0\Parse.pdb
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\Parse.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\Parse.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\Parse.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\Parse.dll
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\refint\Parse.dll
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\Parse.pdb
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\Parse.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Parse\Parse\obj\Debug\net7.0\ref\Parse.dll

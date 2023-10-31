@@ -1,0 +1,14 @@
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\bin\Debug\net7.0\Struct,Enum.exe
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\bin\Debug\net7.0\Struct,Enum.deps.json
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\bin\Debug\net7.0\Struct,Enum.runtimeconfig.json
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\bin\Debug\net7.0\Struct,Enum.dll
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\bin\Debug\net7.0\Struct,Enum.pdb
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\Struct,Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\Struct,Enum.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\Struct,Enum.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\Struct,Enum.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\Struct,Enum.dll
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\refint\Struct,Enum.dll
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\Struct,Enum.pdb
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\Struct,Enum.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Struct,Enum\Struct,Enum\obj\Debug\net7.0\ref\Struct,Enum.dll

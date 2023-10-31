@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Edmon\source\repos\Project49\Project49\Source.cpp(17,65): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Edmon\source\repos\Project49\Project49\Source.cpp(18,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,14 @@
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\bin\Debug\net7.0\Interface,Abstract.exe
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\bin\Debug\net7.0\Interface,Abstract.deps.json
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\bin\Debug\net7.0\Interface,Abstract.runtimeconfig.json
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\bin\Debug\net7.0\Interface,Abstract.dll
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\bin\Debug\net7.0\Interface,Abstract.pdb
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\Interface,Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\Interface,Abstract.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\Interface,Abstract.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\Interface,Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\Interface,Abstract.dll
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\refint\Interface,Abstract.dll
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\Interface,Abstract.pdb
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\Interface,Abstract.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Interface,Abstract\Interface,Abstract\obj\Debug\net7.0\ref\Interface,Abstract.dll

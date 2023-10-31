@@ -1,0 +1,14 @@
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\bin\Debug\net7.0\DynamicArray.exe
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\bin\Debug\net7.0\DynamicArray.deps.json
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\bin\Debug\net7.0\DynamicArray.runtimeconfig.json
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\bin\Debug\net7.0\DynamicArray.dll
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\bin\Debug\net7.0\DynamicArray.pdb
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\DynamicArray.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\DynamicArray.dll
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\refint\DynamicArray.dll
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\DynamicArray.pdb
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\DynamicArray.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\DynamicArray\DynamicArray\obj\Debug\net7.0\ref\DynamicArray.dll

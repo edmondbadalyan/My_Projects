@@ -1,0 +1,14 @@
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\3DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\3DArray.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\3DArray.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\3DArray.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\3DArray.exe
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\3DArray.deps.json
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\3DArray.runtimeconfig.json
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\3DArray.dll
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\3DArray.pdb
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\3DArray.dll
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\refint\3DArray.dll
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\3DArray.pdb
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\3DArray.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ref\3DArray.dll

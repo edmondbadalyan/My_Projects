@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/zpTX6Rocqncuk5aMU5qkXKXkxa78WmsHQoImIajReVEA0qeFj/wbVOn0gniatwiiKVZlAxfj2xxB+wHAMdZMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edmon\\source\\repos\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edmon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
