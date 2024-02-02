@@ -1,0 +1,14 @@
+C:\Users\Edmon\source\repos\Poker\Poker\bin\Debug\net7.0\Poker.exe
+C:\Users\Edmon\source\repos\Poker\Poker\bin\Debug\net7.0\Poker.deps.json
+C:\Users\Edmon\source\repos\Poker\Poker\bin\Debug\net7.0\Poker.runtimeconfig.json
+C:\Users\Edmon\source\repos\Poker\Poker\bin\Debug\net7.0\Poker.dll
+C:\Users\Edmon\source\repos\Poker\Poker\bin\Debug\net7.0\Poker.pdb
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\Poker.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\Poker.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\Poker.dll
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\refint\Poker.dll
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\Poker.pdb
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\Poker.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Poker\Poker\obj\Debug\net7.0\ref\Poker.dll

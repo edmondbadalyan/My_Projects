@@ -1,0 +1,17 @@
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\bin\Debug\net8.0-windows\Списочные Элементы.exe
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\bin\Debug\net8.0-windows\Списочные Элементы.deps.json
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\bin\Debug\net8.0-windows\Списочные Элементы.runtimeconfig.json
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\bin\Debug\net8.0-windows\Списочные Элементы.dll
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\bin\Debug\net8.0-windows\Списочные Элементы.pdb
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.csproj.GenerateResource.cache
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.sourcelink.json
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.dll
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\refint\Списочные Элементы.dll
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.pdb
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные Элементы.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\ref\Списочные Элементы.dll
+C:\Users\Edmon\source\repos\Списочные Элементы\Списочные Элементы\obj\Debug\net8.0-windows\Списочные_Элементы.Form1.resources

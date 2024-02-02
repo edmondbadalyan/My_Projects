@@ -1,0 +1,17 @@
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\bin\Debug\net8.0-windows\Datatable!.exe
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\bin\Debug\net8.0-windows\Datatable!.deps.json
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\bin\Debug\net8.0-windows\Datatable!.runtimeconfig.json
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\bin\Debug\net8.0-windows\Datatable!.dll
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\bin\Debug\net8.0-windows\Datatable!.pdb
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable_.Form1.resources
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.csproj.GenerateResource.cache
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.sourcelink.json
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.dll
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\refint\Datatable!.dll
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.pdb
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\Datatable!.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Datatable!\Datatable!\obj\Debug\net8.0-windows\ref\Datatable!.dll

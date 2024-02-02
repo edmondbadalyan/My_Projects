@@ -1,0 +1,16 @@
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\bin\Debug\net7.0-windows\КонсольноеП.exe
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\bin\Debug\net7.0-windows\КонсольноеП.deps.json
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\bin\Debug\net7.0-windows\КонсольноеП.runtimeconfig.json
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\bin\Debug\net7.0-windows\КонсольноеП.dll
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\bin\Debug\net7.0-windows\КонсольноеП.pdb
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.dll
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\refint\КонсольноеП.dll
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.pdb
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\ref\КонсольноеП.dll
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.MyForm.resources
+C:\Users\Edmon\source\repos\КонсольноеП\КонсольноеП\obj\Debug\net7.0-windows\КонсольноеП.csproj.GenerateResource.cache

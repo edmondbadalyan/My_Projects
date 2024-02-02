@@ -1,0 +1,17 @@
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\bin\Debug\net8.0-windows\Control_Elements.exe
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\bin\Debug\net8.0-windows\Control_Elements.deps.json
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\bin\Debug\net8.0-windows\Control_Elements.runtimeconfig.json
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\bin\Debug\net8.0-windows\Control_Elements.dll
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\bin\Debug\net8.0-windows\Control_Elements.pdb
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.Form1.resources
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.csproj.GenerateResource.cache
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.sourcelink.json
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.dll
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\refint\Control_Elements.dll
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.pdb
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\Control_Elements.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Control_Elements\Control_Elements\obj\Debug\net8.0-windows\ref\Control_Elements.dll

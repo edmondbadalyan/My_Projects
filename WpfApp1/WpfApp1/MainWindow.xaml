@@ -1,0 +1,75 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Main" Height="440" Width="769">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Левая половина -->
+        <StackPanel Grid.Column="0" Margin="10">
+            <TextBlock Text="Environment" FontWeight="Bold" FontSize="16"/>
+            <CheckBox Content="Enable diagnostics" Margin="0,5,0,5"/>
+            <CheckBox Content="Enable telemetry"/>
+            <CheckBox Content="Enable logging" Margin="0,5,0,5"/>
+            <TextBlock Text="Advanced Settings" FontWeight="Bold" FontSize="16" Margin="0,10,0,0"/>
+            <StackPanel Margin="10">
+                <CheckBox Content="Use experimental features"/>
+                <CheckBox Content="Optimize performance"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Правая половина -->
+        <StackPanel Grid.Column="1" Margin="10,10,10,10" RenderTransformOrigin="0.474,0.534">
+            <TextBlock Text="Color Scheme" FontWeight="Bold" FontSize="16"/>
+            <ComboBox Margin="0,5,0,5" SelectionChanged="ComboBox_SelectionChanged">
+                <ComboBoxItem Content="Light"/>
+                <ComboBoxItem Content="Dark"/>
+                <ComboBoxItem Content="Blue"/>
+                <ComboBoxItem Content="Custom"/>
+            </ComboBox>
+            <TextBlock Text="Font Settings" FontWeight="Bold" FontSize="16" Margin="0,10,0,0"/>
+            <StackPanel Margin="10">
+                <TextBlock Text="Font Size"/>
+                <Slider Minimum="8" Maximum="24" Value="12"/>
+                <TextBlock Text="Font Family"/>
+                <ComboBox>
+                    <ComboBoxItem Content="Arial"/>
+                    <ComboBoxItem Content="Times New Roman"/>
+                    <ComboBoxItem Content="Verdana"/>
+                </ComboBox>
+            </StackPanel>
+            <GroupBox Header="Visual Experience" Height="130">
+                <StackPanel Height="44" Orientation="Horizontal" RenderTransformOrigin="0.5,0.5" Margin="8,0,10,0" VerticalAlignment="Top">
+                    <TextBlock Text="Color theme:" FontSize="16" VerticalAlignment="Center" Width="124"/>
+                    <ComboBox Width="195" RenderTransformOrigin="0.5,0.5" Height="26">
+                        <ComboBoxItem Content="Светлая"/>
+                        <ComboBoxItem Content="Темная"/>
+                        <ComboBoxItem Content="Синяя"/>
+                        <ComboBoxItem Content="Пользовательская"/>
+                    </ComboBox>
+                </StackPanel>
+                
+            </GroupBox>
+            <CheckBox Content="Enable Feature"  Height="16" Width="341" IsChecked="True" IsEnabled="False"/>
+            <CheckBox Content="Черт ногу сломит тут" RenderTransformOrigin="0.5,0.5" Height="27" Width="340"/>
+            
+
+
+        </StackPanel>
+
+
+    </Grid>
+
+
+
+
+
+</Window>

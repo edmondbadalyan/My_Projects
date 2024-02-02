@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqyZ0z57zumOOL/cT9w2HRWnWsxeDOqodjnnnQqNJ6doIgxPFDqRJRcfjIO8DK6PvIXPY9mdVOQBctav58Zzog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edmon\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edmon\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Edmon\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

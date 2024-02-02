@@ -1,0 +1,35 @@
+{
+
+  "Edmond": {
+    "ID": "1",
+    "Login": "Edmond",
+    "Password": "Edli",
+    "Mail": "123@mail.ru",
+    "Registraion": "05.05.2023",
+    "Banned": true
+  },
+
+  "Vins": {
+    "ID": "1",
+    "Login": "Edmond",
+    "Password": "Edli",
+    "Mail": "123@mail.ru",
+    "Registraion": "05.05.2023",
+    "Banned": true
+  },
+  "ROLY": {
+    "ID": "1",
+    "Login": "Edmond",
+    "Password": "Edli",
+    "Mail": "123@mail.ru",
+    "Registraion": "05.05.2023",
+    "Banned": true
+  }
+
+
+
+
+
+
+
+}

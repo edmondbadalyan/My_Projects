@@ -1,29 +1,34 @@
-﻿
-
-
-
-using System;
+﻿using System;
 using System.Collections.Generic;
-
-class Program
+using Dictionary;
+public class Program
 {
-    static void ProcessNumbers(IEnumerable<int> numbers)
+    public static void Main(string[] args)
     {
-        foreach (var number in numbers)
+        DictionaryTranslator translator = new DictionaryTranslator();
+
+        while (true)
         {
-            Console.WriteLine(number);
+            Console.WriteLine("Choose translation mode:");
+            Console.WriteLine("1. English to Russian");
+            Console.WriteLine("2. Russian to English");
+            Console.WriteLine("0. Exit");
+            Console.Write("Enter your choice: ");
+            int modeChoice = int.Parse(Console.ReadLine());
+
+            if (modeChoice == 0)
+            {
+                break;
+            }
+
+            bool isRussianToEnglish = modeChoice == 2;
+
+            Console.Write("Enter the phrase to translate: ");
+            string source = Console.ReadLine();
+
+            string translation = translator.Translate(source, isRussianToEnglish);
+            Console.WriteLine("Translation: " + translation);
+            Console.WriteLine();
         }
-    }
-
-    static void Main()
-    {
-        List<int> listNumbers = new List<int> { 1, 2, 3, 4, 5 };
-        int[] arrayNumbers = new int[] { 6, 7, 8, 9, 10 };
-
-        Console.WriteLine("Processing listNumbers:");
-        ProcessNumbers(listNumbers);
-
-        Console.WriteLine("Processing arrayNumbers:");
-        ProcessNumbers(arrayNumbers);
     }
 }

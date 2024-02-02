@@ -1,0 +1,16 @@
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\bin\Debug\net7.0-windows\Кнопки и свойства.exe
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\bin\Debug\net7.0-windows\Кнопки и свойства.deps.json
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\bin\Debug\net7.0-windows\Кнопки и свойства.runtimeconfig.json
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\bin\Debug\net7.0-windows\Кнопки и свойства.dll
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\bin\Debug\net7.0-windows\Кнопки и свойства.pdb
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки_и_свойства.Form1.resources
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.csproj.GenerateResource.cache
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.dll
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\refint\Кнопки и свойства.dll
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.pdb
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\Кнопки и свойства.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Кнопки и свойства\Кнопки и свойства\obj\Debug\net7.0-windows\ref\Кнопки и свойства.dll

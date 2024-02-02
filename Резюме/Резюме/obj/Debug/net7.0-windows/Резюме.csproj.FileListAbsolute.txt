@@ -1,0 +1,16 @@
+C:\Users\Edmon\source\repos\Резюме\Резюме\bin\Debug\net7.0-windows\Резюме.exe
+C:\Users\Edmon\source\repos\Резюме\Резюме\bin\Debug\net7.0-windows\Резюме.deps.json
+C:\Users\Edmon\source\repos\Резюме\Резюме\bin\Debug\net7.0-windows\Резюме.runtimeconfig.json
+C:\Users\Edmon\source\repos\Резюме\Резюме\bin\Debug\net7.0-windows\Резюме.dll
+C:\Users\Edmon\source\repos\Резюме\Резюме\bin\Debug\net7.0-windows\Резюме.pdb
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.Form1.resources
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.csproj.GenerateResource.cache
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.dll
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\refint\Резюме.dll
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.pdb
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\Резюме.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Резюме\Резюме\obj\Debug\net7.0-windows\ref\Резюме.dll

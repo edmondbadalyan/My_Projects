@@ -1,0 +1,15 @@
+C:\Users\Edmon\source\repos\Adonet\Adonet\bin\Debug\net8.0\Adonet.exe
+C:\Users\Edmon\source\repos\Adonet\Adonet\bin\Debug\net8.0\Adonet.deps.json
+C:\Users\Edmon\source\repos\Adonet\Adonet\bin\Debug\net8.0\Adonet.runtimeconfig.json
+C:\Users\Edmon\source\repos\Adonet\Adonet\bin\Debug\net8.0\Adonet.dll
+C:\Users\Edmon\source\repos\Adonet\Adonet\bin\Debug\net8.0\Adonet.pdb
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.sourcelink.json
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.dll
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\refint\Adonet.dll
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.pdb
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\Adonet.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Adonet\Adonet\obj\Debug\net8.0\ref\Adonet.dll

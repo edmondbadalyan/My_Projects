@@ -1,0 +1,18 @@
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\bin\Debug\net8.0-windows\Резиновая верстка.exe
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\bin\Debug\net8.0-windows\Резиновая верстка.deps.json
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\bin\Debug\net8.0-windows\Резиновая верстка.runtimeconfig.json
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\bin\Debug\net8.0-windows\Резиновая верстка.dll
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\bin\Debug\net8.0-windows\Резиновая верстка.pdb
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая_верстка.Form1.resources
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.csproj.GenerateResource.cache
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.sourcelink.json
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.dll
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\refint\Резиновая верстка.dll
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.pdb
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая верстка.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\ref\Резиновая верстка.dll
+C:\Users\Edmon\source\repos\Резиновая верстка\Резиновая верстка\obj\Debug\net8.0-windows\Резиновая_верстка.Properties.Resources.resources

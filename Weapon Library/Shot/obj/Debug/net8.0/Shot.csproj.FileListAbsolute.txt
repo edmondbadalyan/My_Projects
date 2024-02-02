@@ -1,0 +1,19 @@
+C:\Users\Edmon\source\repos\Weapon Library\Shot\bin\Debug\net8.0\Shot.exe
+C:\Users\Edmon\source\repos\Weapon Library\Shot\bin\Debug\net8.0\Shot.deps.json
+C:\Users\Edmon\source\repos\Weapon Library\Shot\bin\Debug\net8.0\Shot.runtimeconfig.json
+C:\Users\Edmon\source\repos\Weapon Library\Shot\bin\Debug\net8.0\Shot.dll
+C:\Users\Edmon\source\repos\Weapon Library\Shot\bin\Debug\net8.0\Shot.pdb
+C:\Users\Edmon\source\repos\Weapon Library\Shot\bin\Debug\net8.0\Weapon Library.dll
+C:\Users\Edmon\source\repos\Weapon Library\Shot\bin\Debug\net8.0\Weapon Library.pdb
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.csproj.AssemblyReference.cache
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.AssemblyInfoInputs.cache
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.AssemblyInfo.cs
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.csproj.CoreCompileInputs.cache
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.sourcelink.json
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.csproj.CopyComplete
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.dll
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\refint\Shot.dll
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.pdb
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\Shot.genruntimeconfig.cache
+C:\Users\Edmon\source\repos\Weapon Library\Shot\obj\Debug\net8.0\ref\Shot.dll
